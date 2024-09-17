@@ -1,6 +1,7 @@
 ### Introduction
 
 Data visualization is a powerful tool for understanding and interpreting data. Various types of plots can help reveal different aspects of a dataset, making it easier to analyze patterns, relationships, and distributions. The Iris dataset, a staple in data analysis and machine learning, offers a practical example for exploring various visualization techniques. Among the many plot types available, Pie Plots, Scatter Plots, Pair Plots, Joint Plots, and KDE Plots are particularly useful for different kinds of analysis.
+The Iris dataset is one of the most famous datasets used in machine learning and statistics, particularly for classification tasks. It consists of 150 samples from three species of iris flowers: Setosa, Versicolor, and Virginica.
 
 ### Conclusion
 
